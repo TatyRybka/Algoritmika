@@ -2,10 +2,6 @@ body {
     font-family: sans-serif;
 }
 
-html {
-    background-color: blueviolet;
-}
-
 nav a { 
     color: black;
     text-decoration: none;
